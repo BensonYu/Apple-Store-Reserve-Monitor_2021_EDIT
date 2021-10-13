@@ -1,9 +1,9 @@
 # Apple Store Reserve Monitor
 
-import code from another repository
-credit by https://github.com/insanoid/Apple-Store-Reserve-Monitor
-edit few parameters used in 2021
-add telegram bot support
+- import code from another repository
+- credit by https://github.com/insanoid/Apple-Store-Reserve-Monitor
+- edit few parameters used in 2021
+- add telegram bot support
 
 ## Supports all iPhone, iPad, and Apple Watch
 #### Including iPhone 11 Pro, iPhone 11, iPad 11 Pro, iPad Air 2019

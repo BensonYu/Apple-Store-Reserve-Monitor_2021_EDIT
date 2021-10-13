@@ -1,0 +1,14 @@
+{
+  "country_code": "US",
+  "device_family": "iphone13pro",
+  "zip_code": "10305",
+  "models": ["MLKL3LL/A","MLKR3LL/A",
+  "MLKN3LL/A","MLKU3LL/A",
+  "MLKM3LL/A","MLKT3LL/A",
+  "MLKP3LL/A","MLKV3LL/A"],
+  "carriers": ["UNLOCKED/US"],
+  "stores": ["R152","R631","R027","R354"],
+  "appointment_stores": [],
+  "chat_id": "yourChatID",
+  "token": "YourTelegramBotToken"
+}
